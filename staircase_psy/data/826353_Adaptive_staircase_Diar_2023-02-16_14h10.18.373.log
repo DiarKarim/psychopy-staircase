@@ -1,0 +1,324 @@
+14.4040 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+30.4186 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+33.5522 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CFDDE0CFA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001CFDEE84CA0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+33.5523 	EXP 	window1: mouseVisible = True
+33.5524 	EXP 	window1: mouseVisible = False
+33.5524 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+33.5525 	EXP 	window1: recordFrameIntervals = False
+33.7185 	EXP 	window1: recordFrameIntervals = True
+33.9020 	EXP 	Screen (0) actual frame rate measured at 60.09Hz
+33.9020 	EXP 	window1: recordFrameIntervals = False
+37.2185 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+38.3881 	EXP 	Created response = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='response', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+38.3974 	EXP 	Created thank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating', units='height', win=Window(...), wrapWidth=1)
+38.4052 	EXP 	text: autoDraw = True
+211.9134 	WARNING 	Increasing number of minimum required reversals to the number of step sizes, (17).
+212.5496 	EXP 	window1: recordFrameIntervals = False
+212.5509 	DATA 	Keypress: space
+212.5527 	EXP 	text: autoDraw = False
+212.5530 	EXP 	window1: recordFrameIntervals = False
+215.4953 	EXP 	response: autoDraw = True
+224.6463 	EXP 	window1: recordFrameIntervals = False
+224.6473 	DATA 	Keypress: s
+224.6490 	EXP 	response: autoDraw = False
+224.6490 	EXP 	window1: recordFrameIntervals = False
+227.5939 	EXP 	response: autoDraw = True
+233.3788 	EXP 	window1: recordFrameIntervals = False
+233.3796 	DATA 	Keypress: s
+233.3814 	EXP 	response: autoDraw = False
+233.3815 	EXP 	window1: recordFrameIntervals = False
+236.3264 	EXP 	response: autoDraw = True
+239.9106 	EXP 	window1: recordFrameIntervals = False
+239.9115 	DATA 	Keypress: d
+239.9131 	EXP 	response: autoDraw = False
+239.9133 	EXP 	window1: recordFrameIntervals = False
+242.8590 	EXP 	response: autoDraw = True
+247.7599 	EXP 	window1: recordFrameIntervals = False
+247.7607 	DATA 	Keypress: d
+247.7625 	EXP 	response: autoDraw = False
+247.7626 	EXP 	window1: recordFrameIntervals = False
+250.7076 	EXP 	response: autoDraw = True
+254.3256 	DATA 	Keypress: d
+254.9426 	EXP 	window1: recordFrameIntervals = False
+254.9453 	EXP 	response: autoDraw = False
+254.9453 	EXP 	window1: recordFrameIntervals = False
+257.8902 	EXP 	response: autoDraw = True
+261.8913 	EXP 	window1: recordFrameIntervals = False
+261.8920 	DATA 	Keypress: d
+261.8936 	EXP 	response: autoDraw = False
+261.8938 	EXP 	window1: recordFrameIntervals = False
+264.8388 	EXP 	response: autoDraw = True
+348.3646 	EXP 	window1: recordFrameIntervals = False
+348.3655 	DATA 	Keypress: s
+348.3672 	EXP 	response: autoDraw = False
+348.3673 	EXP 	window1: recordFrameIntervals = False
+351.3117 	EXP 	response: autoDraw = True
+355.3801 	EXP 	window1: recordFrameIntervals = False
+355.3808 	DATA 	Keypress: s
+355.3824 	EXP 	response: autoDraw = False
+355.3826 	EXP 	window1: recordFrameIntervals = False
+358.3273 	EXP 	response: autoDraw = True
+366.1287 	EXP 	window1: recordFrameIntervals = False
+366.1296 	DATA 	Keypress: d
+366.1314 	EXP 	response: autoDraw = False
+366.1315 	EXP 	window1: recordFrameIntervals = False
+369.0758 	EXP 	response: autoDraw = True
+372.4771 	EXP 	window1: recordFrameIntervals = False
+372.4779 	DATA 	Keypress: d
+372.4798 	EXP 	response: autoDraw = False
+372.4799 	EXP 	window1: recordFrameIntervals = False
+374.9095 	DATA 	Keypress: s
+375.4250 	EXP 	response: autoDraw = True
+377.6263 	EXP 	window1: recordFrameIntervals = False
+377.6271 	DATA 	Keypress: s
+377.6289 	EXP 	response: autoDraw = False
+377.6290 	EXP 	window1: recordFrameIntervals = False
+380.5742 	EXP 	response: autoDraw = True
+381.4434 	EXP 	window1: recordFrameIntervals = False
+381.4444 	DATA 	Keypress: s
+381.4460 	EXP 	response: autoDraw = False
+381.4462 	EXP 	window1: recordFrameIntervals = False
+384.3908 	EXP 	response: autoDraw = True
+385.2754 	EXP 	window1: recordFrameIntervals = False
+385.2762 	DATA 	Keypress: s
+385.2778 	EXP 	response: autoDraw = False
+385.2780 	EXP 	window1: recordFrameIntervals = False
+388.2233 	EXP 	response: autoDraw = True
+392.4758 	EXP 	window1: recordFrameIntervals = False
+392.4766 	DATA 	Keypress: s
+392.4785 	EXP 	response: autoDraw = False
+392.4786 	EXP 	window1: recordFrameIntervals = False
+395.4225 	EXP 	response: autoDraw = True
+400.7747 	EXP 	window1: recordFrameIntervals = False
+400.7755 	DATA 	Keypress: s
+400.7771 	EXP 	response: autoDraw = False
+400.7772 	EXP 	window1: recordFrameIntervals = False
+403.7216 	EXP 	response: autoDraw = True
+412.1387 	EXP 	window1: recordFrameIntervals = False
+412.1395 	DATA 	Keypress: d
+412.1413 	EXP 	response: autoDraw = False
+412.1415 	EXP 	window1: recordFrameIntervals = False
+415.0865 	EXP 	response: autoDraw = True
+419.6056 	EXP 	window1: recordFrameIntervals = False
+419.6064 	DATA 	Keypress: s
+419.6081 	EXP 	response: autoDraw = False
+419.6083 	EXP 	window1: recordFrameIntervals = False
+422.5524 	EXP 	response: autoDraw = True
+426.0372 	EXP 	window1: recordFrameIntervals = False
+426.0379 	DATA 	Keypress: s
+426.0396 	EXP 	response: autoDraw = False
+426.0397 	EXP 	window1: recordFrameIntervals = False
+428.9847 	EXP 	response: autoDraw = True
+434.2696 	EXP 	window1: recordFrameIntervals = False
+434.2704 	DATA 	Keypress: s
+434.2721 	EXP 	response: autoDraw = False
+434.2722 	EXP 	window1: recordFrameIntervals = False
+437.2174 	EXP 	response: autoDraw = True
+439.6352 	DATA 	Keypress: s
+440.2534 	EXP 	window1: recordFrameIntervals = False
+440.2560 	EXP 	response: autoDraw = False
+440.2561 	EXP 	window1: recordFrameIntervals = False
+443.2000 	EXP 	response: autoDraw = True
+444.9679 	EXP 	window1: recordFrameIntervals = False
+444.9687 	DATA 	Keypress: s
+444.9706 	EXP 	response: autoDraw = False
+444.9707 	EXP 	window1: recordFrameIntervals = False
+447.9165 	EXP 	response: autoDraw = True
+451.4677 	EXP 	window1: recordFrameIntervals = False
+451.4685 	DATA 	Keypress: s
+451.4703 	EXP 	response: autoDraw = False
+451.4705 	EXP 	window1: recordFrameIntervals = False
+454.4148 	EXP 	response: autoDraw = True
+457.7332 	EXP 	window1: recordFrameIntervals = False
+457.7341 	DATA 	Keypress: s
+457.7359 	EXP 	response: autoDraw = False
+457.7361 	EXP 	window1: recordFrameIntervals = False
+460.6811 	EXP 	response: autoDraw = True
+462.3666 	EXP 	window1: recordFrameIntervals = False
+462.3684 	DATA 	Keypress: s
+462.3701 	EXP 	response: autoDraw = False
+462.3703 	EXP 	window1: recordFrameIntervals = False
+465.3138 	EXP 	response: autoDraw = True
+467.5490 	EXP 	window1: recordFrameIntervals = False
+467.5499 	DATA 	Keypress: s
+467.5517 	EXP 	response: autoDraw = False
+467.5519 	EXP 	window1: recordFrameIntervals = False
+470.4965 	EXP 	response: autoDraw = True
+472.5313 	EXP 	window1: recordFrameIntervals = False
+472.5321 	DATA 	Keypress: s
+472.5339 	EXP 	response: autoDraw = False
+472.5340 	EXP 	window1: recordFrameIntervals = False
+475.4789 	EXP 	response: autoDraw = True
+477.1812 	EXP 	window1: recordFrameIntervals = False
+477.1821 	DATA 	Keypress: s
+477.1839 	EXP 	response: autoDraw = False
+477.1840 	EXP 	window1: recordFrameIntervals = False
+480.1287 	EXP 	response: autoDraw = True
+481.7136 	EXP 	window1: recordFrameIntervals = False
+481.7144 	DATA 	Keypress: s
+481.7161 	EXP 	response: autoDraw = False
+481.7162 	EXP 	window1: recordFrameIntervals = False
+484.6612 	EXP 	response: autoDraw = True
+487.3790 	EXP 	window1: recordFrameIntervals = False
+487.3798 	DATA 	Keypress: s
+487.3817 	EXP 	response: autoDraw = False
+487.3818 	EXP 	window1: recordFrameIntervals = False
+490.3270 	EXP 	response: autoDraw = True
+492.0956 	DATA 	Keypress: s
+492.7119 	EXP 	window1: recordFrameIntervals = False
+492.7144 	EXP 	response: autoDraw = False
+492.7146 	EXP 	window1: recordFrameIntervals = False
+495.6602 	EXP 	response: autoDraw = True
+497.7119 	EXP 	window1: recordFrameIntervals = False
+497.7127 	DATA 	Keypress: s
+497.7144 	EXP 	response: autoDraw = False
+497.7146 	EXP 	window1: recordFrameIntervals = False
+500.6589 	EXP 	response: autoDraw = True
+503.4454 	EXP 	window1: recordFrameIntervals = False
+503.4462 	DATA 	Keypress: s
+503.4479 	EXP 	response: autoDraw = False
+503.4480 	EXP 	window1: recordFrameIntervals = False
+506.3915 	EXP 	response: autoDraw = True
+509.2763 	EXP 	window1: recordFrameIntervals = False
+509.2771 	DATA 	Keypress: s
+509.2790 	EXP 	response: autoDraw = False
+509.2791 	EXP 	window1: recordFrameIntervals = False
+512.2242 	EXP 	response: autoDraw = True
+513.0427 	EXP 	window1: recordFrameIntervals = False
+513.0437 	DATA 	Keypress: s
+513.0454 	EXP 	response: autoDraw = False
+513.0455 	EXP 	window1: recordFrameIntervals = False
+515.9905 	EXP 	response: autoDraw = True
+518.0589 	DATA 	Keypress: s
+518.6761 	EXP 	window1: recordFrameIntervals = False
+518.6786 	EXP 	response: autoDraw = False
+518.6787 	EXP 	window1: recordFrameIntervals = False
+521.6230 	EXP 	response: autoDraw = True
+523.2251 	EXP 	window1: recordFrameIntervals = False
+523.2260 	DATA 	Keypress: s
+523.2277 	EXP 	response: autoDraw = False
+523.2282 	EXP 	window1: recordFrameIntervals = False
+526.1726 	EXP 	response: autoDraw = True
+528.6920 	EXP 	window1: recordFrameIntervals = False
+528.6930 	DATA 	Keypress: s
+528.6947 	EXP 	response: autoDraw = False
+528.6948 	EXP 	window1: recordFrameIntervals = False
+531.6384 	EXP 	response: autoDraw = True
+535.3222 	EXP 	window1: recordFrameIntervals = False
+535.3233 	DATA 	Keypress: s
+535.3250 	EXP 	response: autoDraw = False
+535.3251 	EXP 	window1: recordFrameIntervals = False
+538.2708 	EXP 	response: autoDraw = True
+540.5223 	EXP 	window1: recordFrameIntervals = False
+540.5232 	DATA 	Keypress: s
+540.5249 	EXP 	response: autoDraw = False
+540.5250 	EXP 	window1: recordFrameIntervals = False
+543.4706 	EXP 	response: autoDraw = True
+544.1397 	EXP 	window1: recordFrameIntervals = False
+544.1405 	DATA 	Keypress: s
+544.1424 	EXP 	response: autoDraw = False
+544.1425 	EXP 	window1: recordFrameIntervals = False
+545.5541 	DATA 	Keypress: s
+547.0865 	EXP 	response: autoDraw = True
+548.2053 	EXP 	window1: recordFrameIntervals = False
+548.2062 	DATA 	Keypress: s
+548.2080 	EXP 	response: autoDraw = False
+548.2080 	EXP 	window1: recordFrameIntervals = False
+551.1526 	EXP 	response: autoDraw = True
+553.1175 	DATA 	Keypress: s
+553.7201 	EXP 	window1: recordFrameIntervals = False
+553.7225 	EXP 	response: autoDraw = False
+553.7227 	EXP 	window1: recordFrameIntervals = False
+556.6685 	EXP 	response: autoDraw = True
+558.1698 	EXP 	window1: recordFrameIntervals = False
+558.1705 	DATA 	Keypress: s
+558.1722 	EXP 	response: autoDraw = False
+558.1724 	EXP 	window1: recordFrameIntervals = False
+561.0687 	DATA 	Keypress: s
+561.1178 	EXP 	response: autoDraw = True
+563.3857 	EXP 	window1: recordFrameIntervals = False
+563.3864 	DATA 	Keypress: s
+563.3880 	EXP 	response: autoDraw = False
+563.3881 	EXP 	window1: recordFrameIntervals = False
+566.3337 	EXP 	response: autoDraw = True
+567.0192 	EXP 	window1: recordFrameIntervals = False
+567.0200 	DATA 	Keypress: s
+567.0219 	EXP 	response: autoDraw = False
+567.0221 	EXP 	window1: recordFrameIntervals = False
+569.9666 	EXP 	response: autoDraw = True
+571.8530 	EXP 	window1: recordFrameIntervals = False
+571.8539 	DATA 	Keypress: s
+571.8556 	EXP 	response: autoDraw = False
+571.8557 	EXP 	window1: recordFrameIntervals = False
+574.7999 	EXP 	response: autoDraw = True
+575.9850 	EXP 	window1: recordFrameIntervals = False
+575.9858 	DATA 	Keypress: s
+575.9875 	EXP 	response: autoDraw = False
+575.9876 	EXP 	window1: recordFrameIntervals = False
+578.9326 	EXP 	response: autoDraw = True
+584.1730 	EXP 	window1: recordFrameIntervals = False
+584.1739 	DATA 	Keypress: s
+584.1756 	EXP 	response: autoDraw = False
+584.1757 	EXP 	window1: recordFrameIntervals = False
+587.1146 	EXP 	response: autoDraw = True
+604.7980 	EXP 	window1: recordFrameIntervals = False
+604.7988 	DATA 	Keypress: s
+604.8004 	EXP 	response: autoDraw = False
+604.8006 	EXP 	window1: recordFrameIntervals = False
+607.7451 	EXP 	response: autoDraw = True
+618.3964 	EXP 	window1: recordFrameIntervals = False
+618.3973 	DATA 	Keypress: s
+618.3991 	EXP 	response: autoDraw = False
+618.3993 	EXP 	window1: recordFrameIntervals = False
+621.3433 	EXP 	response: autoDraw = True
+623.3121 	EXP 	window1: recordFrameIntervals = False
+623.3129 	DATA 	Keypress: s
+623.3149 	EXP 	response: autoDraw = False
+623.3150 	EXP 	window1: recordFrameIntervals = False
+626.2593 	EXP 	response: autoDraw = True
+627.9279 	EXP 	window1: recordFrameIntervals = False
+627.9289 	DATA 	Keypress: s
+627.9307 	EXP 	response: autoDraw = False
+627.9309 	EXP 	window1: recordFrameIntervals = False
+630.8756 	EXP 	response: autoDraw = True
+632.0273 	EXP 	window1: recordFrameIntervals = False
+632.0282 	DATA 	Keypress: s
+632.0301 	EXP 	response: autoDraw = False
+632.0302 	EXP 	window1: recordFrameIntervals = False
+634.9749 	EXP 	response: autoDraw = True
+636.6276 	EXP 	window1: recordFrameIntervals = False
+636.6285 	DATA 	Keypress: s
+636.6303 	EXP 	response: autoDraw = False
+636.6305 	EXP 	window1: recordFrameIntervals = False
+639.5745 	EXP 	response: autoDraw = True
+641.1767 	EXP 	window1: recordFrameIntervals = False
+641.1775 	DATA 	Keypress: s
+641.1792 	EXP 	response: autoDraw = False
+641.1794 	EXP 	window1: recordFrameIntervals = False
+644.1241 	EXP 	response: autoDraw = True
+646.3430 	EXP 	window1: recordFrameIntervals = False
+646.3440 	DATA 	Keypress: s
+646.3457 	EXP 	response: autoDraw = False
+646.3458 	EXP 	window1: recordFrameIntervals = False
+649.2901 	EXP 	response: autoDraw = True
+650.2597 	EXP 	window1: recordFrameIntervals = False
+650.2605 	DATA 	Keypress: s
+650.2624 	EXP 	response: autoDraw = False
+650.2625 	EXP 	window1: recordFrameIntervals = False
+653.2066 	EXP 	response: autoDraw = True
+656.0094 	EXP 	window1: recordFrameIntervals = False
+656.0103 	DATA 	Keypress: s
+656.0120 	EXP 	response: autoDraw = False
+656.0122 	EXP 	window1: recordFrameIntervals = False
+658.9552 	EXP 	response: autoDraw = True
+660.1910 	EXP 	window1: recordFrameIntervals = False
+660.1918 	DATA 	Keypress: s
+660.1939 	EXP 	response: autoDraw = False
+660.1940 	EXP 	window1: recordFrameIntervals = False
+663.1385 	EXP 	response: autoDraw = True
+664.9736 	EXP 	window1: recordFrameIntervals = False
+664.9744 	DATA 	Keypress: s
+664.9764 	EXP 	response: autoDraw = False
+664.9765 	EXP 	window1: recordFrameIntervals = False
+666.1888 	DATA 	Keypress: escape
+668.0620 	EXP 	window1: mouseVisible = True

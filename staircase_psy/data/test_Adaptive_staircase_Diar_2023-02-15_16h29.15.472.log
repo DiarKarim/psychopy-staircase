@@ -1,0 +1,62 @@
+2.6084 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+16.9487 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+18.6614 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002B8C3C6DFA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002B8C8B88CD0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.6615 	EXP 	window1: mouseVisible = True
+18.6616 	EXP 	window1: mouseVisible = False
+18.6616 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+18.6616 	EXP 	window1: recordFrameIntervals = False
+18.8280 	EXP 	window1: recordFrameIntervals = True
+19.0111 	EXP 	Screen (0) actual frame rate measured at 60.08Hz
+19.0112 	EXP 	window1: recordFrameIntervals = False
+21.4528 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.6606 	EXP 	Created response = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='response', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.6710 	EXP 	Created thank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating', units='height', win=Window(...), wrapWidth=1)
+22.6785 	EXP 	text: autoDraw = True
+24.6944 	WARNING 	Increasing number of minimum required reversals to the number of step sizes, (17).
+26.5950 	EXP 	window1: recordFrameIntervals = False
+26.5961 	DATA 	Keypress: space
+26.5979 	EXP 	text: autoDraw = False
+26.5981 	EXP 	window1: recordFrameIntervals = False
+29.5430 	EXP 	response: autoDraw = True
+35.2628 	EXP 	window1: recordFrameIntervals = False
+35.2637 	DATA 	Keypress: d
+35.2654 	EXP 	response: autoDraw = False
+35.2655 	EXP 	window1: recordFrameIntervals = False
+38.2083 	EXP 	response: autoDraw = True
+40.4458 	EXP 	window1: recordFrameIntervals = False
+40.4469 	DATA 	Keypress: s
+40.4489 	EXP 	response: autoDraw = False
+40.4491 	EXP 	window1: recordFrameIntervals = False
+43.3910 	EXP 	response: autoDraw = True
+46.7116 	EXP 	window1: recordFrameIntervals = False
+46.7125 	DATA 	Keypress: d
+46.7142 	EXP 	response: autoDraw = False
+46.7143 	EXP 	window1: recordFrameIntervals = False
+49.6569 	EXP 	response: autoDraw = True
+53.1101 	EXP 	window1: recordFrameIntervals = False
+53.1111 	DATA 	Keypress: s
+53.1128 	EXP 	response: autoDraw = False
+53.1130 	EXP 	window1: recordFrameIntervals = False
+56.0561 	EXP 	response: autoDraw = True
+72.3750 	EXP 	window1: recordFrameIntervals = False
+72.3758 	DATA 	Keypress: d
+72.3778 	EXP 	response: autoDraw = False
+72.3779 	EXP 	window1: recordFrameIntervals = False
+75.3203 	EXP 	response: autoDraw = True
+78.1080 	EXP 	window1: recordFrameIntervals = False
+78.1088 	DATA 	Keypress: d
+78.1105 	EXP 	response: autoDraw = False
+78.1107 	EXP 	window1: recordFrameIntervals = False
+81.0529 	EXP 	response: autoDraw = True
+88.8228 	EXP 	window1: recordFrameIntervals = False
+88.8239 	DATA 	Keypress: d
+88.8261 	EXP 	response: autoDraw = False
+88.8262 	EXP 	window1: recordFrameIntervals = False
+91.7685 	EXP 	response: autoDraw = True
+94.6714 	EXP 	window1: recordFrameIntervals = False
+94.6722 	DATA 	Keypress: d
+94.6740 	EXP 	response: autoDraw = False
+94.6742 	EXP 	window1: recordFrameIntervals = False
+97.6177 	EXP 	response: autoDraw = True
+105.7514 	DATA 	Keypress: escape
+106.5880 	EXP 	window1: mouseVisible = True

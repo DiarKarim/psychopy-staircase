@@ -1,0 +1,3 @@
+﻿text.started,key_resp.started,key_resp.keys,key_resp.rt,stair.label,stair.startVal,stair.stepSizes,stair.minVal,stair.maxVal,stair.thisIndex,stair.thisRepN,stair.thisN,stair.direction,stair.stepSize,stair.stepType,stair.intensity,trial_resp.started,stimulus.started,stimulus.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+16.32813849998638,16.32813849998638,space,1.8226691000163555,,,,,,,,,,,,,,,,test,001,2023-02-15_16h06.26.287,Adaptive_staircase_Diar,2022.2.5,60.04440885440538,
+,,,,level,300,"[40, 40, 30, 30, 20, 20, 20, 10, 10, 10, 10, 10]",90,400,0,1,0,start,40,db,300,19.867036300012842,19.867036300012842,20.871899299963843,,,,,,,

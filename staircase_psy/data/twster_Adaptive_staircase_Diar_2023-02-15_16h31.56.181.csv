@@ -1,0 +1,4 @@
+﻿stair.thisTrialN,stair.stepSize,stair.intensity,text.started,key_resp.started,key_resp.keys,key_resp.rt,ISI.started,trial_resp.started,response.started,stair.response,trial_resp.rt,participant,session,date,expName,psychopyVersion,frameRate,
+,,,25.891838299983647,25.891838299983647,space,2.017593599972315,,,,,,twster,001,2023-02-15_16h31.56.181,Adaptive_staircase_Diar,2022.2.5,60.069187699741704,
+0,40,300.0,,,,,1.2493204000056721,32.117173000006005,32.117173000006005,0,3.105688599986024,twster,001,2023-02-15_16h31.56.181,Adaptive_staircase_Diar,2022.2.5,60.069187699741704,
+,,,,,,,1.2021514999796636,,,,,,,,,,,
